@@ -12,6 +12,8 @@ I am currently in my 3rd year into my computer science journey, and I'm thriving
 My primary focus lies in Sofware Engineering and Mobile Technologies, where I've been exploring Android Studio, Gradle, Android Virtual Devices, Firebase, JUnit and Espresso, Retrofit and many other tools. From developing sleek web applications to diving into the intricacies of machine learning, I'm excited about the endless possibilities that computer science offers.
 ## Skills
 
+## Skills and Experience
+
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,6 +22,9 @@ My primary focus lies in Sofware Engineering and Mobile Technologies, where I've
 - ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+- ![Android with Java](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+
+
 
 
 ### 🌐 Future Aspirations
