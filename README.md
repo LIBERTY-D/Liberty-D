@@ -1,6 +1,7 @@
 ## About Me
 
 Hello! 👋 I'm Liberty Daniel Mukubvu, a dedicated computer science enthusiast currently pursuing my studies in this ever-evolving field. I find joy in unraveling the mysteries of code, solving complex problems, and building innovative solutions that make a positive impact.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liberty-D)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎓 Academic Journey
 
