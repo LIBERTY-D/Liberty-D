@@ -21,7 +21,7 @@ I'm always eager to connect with fellow enthusiasts, professionals, and mentors 
 ### 📫 Contact Information
 
 - 📧 Email: danielliberty2425@gmail.com
-- 💬 LinkedIn: linkedin.com/in/danielmukubvu-35536323
+- 💬 LinkedIn: linkedin.com/in/daniel-mukubvu-35536323
 - 🌐 GitHub: https://github.com/LIBERTY-D
 
 Thank you for stopping by, and I look forward to connecting with you in the vast world of computer science! 🚀
