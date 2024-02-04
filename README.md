@@ -8,7 +8,7 @@ I am currently in my 3rd year into my computer science journey, and I'm thriving
 
 ### 💻 Specialization
 
-My primary focus lies in Sofware Engineering and Mobile Technologies, where I've been exploring Android Studio,Gradle,Android Virtual Devices,Firebase,JUnit and Espresso,Retrofit and many other tools. From developing sleek web applications to diving into the intricacies of machine learning, I'm excited about the endless possibilities that computer science offers.
+My primary focus lies in Sofware Engineering and Mobile Technologies, where I've been exploring Android Studio, Gradle, Android Virtual Devices, Firebase, JUnit and Espresso, Retrofit and many other tools. From developing sleek web applications to diving into the intricacies of machine learning, I'm excited about the endless possibilities that computer science offers.
 
 ### 🌐 Future Aspirations
 
