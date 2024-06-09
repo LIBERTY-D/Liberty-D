@@ -16,6 +16,8 @@ My primary focus lies in Software Engineering and Mobile Technologies, where I'v
 
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -23,6 +25,8 @@ My primary focus lies in Software Engineering and Mobile Technologies, where I'v
 - ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - ![Android with Java](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 ## Portfolio
 
 Explore my portfolio to see some of my projects and learn more about my work:
