@@ -1,10 +1,11 @@
 ## About Me
 
-Hello! 👋 I'm Liberty Mukubvu, a dedicated computer science student. I find joy in unraveling the mysteries of code, solving complex problems, and building innovative solutions that make a positive impact.
+Hello! 👋 I'm Liberty Mukubvu, a dedicated final year computer science student. I find joy in unraveling the mysteries of code, solving complex problems, and building innovative solutions that make a positive impact.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liberty-D)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎓 Academic Journey
-I am currently in the fourth year of my Computer Science journey, specializing in Software Engineering and Mobile Technologies. My coursework has provided me with a solid foundation in algorithms, data structures, design patterns, programming, and software testing, among other areas.
+I am currently in the final year of my Computer Science journey, specializing in Software Engineering and Mobile Technologies.
+Currently looking for a role as a junior software engineer.
 
 ## Skills and Experience
 
