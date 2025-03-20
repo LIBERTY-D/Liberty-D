@@ -1,9 +1,15 @@
 ## About Me
+Hey there! 👋 I'm Liberty Mukubvu, a recent Computer Science graduate who just really loves to code.
 
-Hello! 👋 I'm Liberty Mukubvu, a dedicated final year computer science student. I find joy in unraveling the mysteries of code, solving complex problems, and building innovative solutions that make a positive impact.
+I mostly work with **Java**, building personal projects and tinkering with new ideas. 
+I love the challenge of solving complex problems, optimizing code, and figuring out how things work under the hood.
+
+Beyond coding, I’m always looking to learn something new—whether it’s exploring **software architecture**, 
+diving into **system design**, or just experimenting with different technologies.
+I also enjoy contributing to open-source projects and collaborating with others who share the same enthusiasm for tech.
 
 ### 🎓 Academic Journey
-I am currently in the final year of my Computer Science journey, specializing in Software Engineering and Mobile Technologies.
+I currently graduated and excited about the opportunities ahead of me.
 Currently looking for a role as a junior software engineer.
 
 ## Skills and Experience
@@ -53,11 +59,14 @@ Explore my portfolio to see some of my projects and learn more about my work:
 
 ### 🌐 Future Aspirations
 
-Looking ahead, I aspire to to become a skilled and innovative Software Engineer, contributing to the development of cutting-edge technologies and solutions.
+Looking ahead, I aspire to become a skilled Senior Software Engineer.
 
 ### 👩‍💻 Let's Connect
 
-I'm always eager to connect with fellow enthusiasts, professionals, and mentors in the field. If you share similar interests, have exciting project ideas, or simply want to chat about the latest trends in computer science, feel free to reach out! Let's learn, grow, and code together.
+I'm always eager to connect with fellow enthusiasts, professionals, and mentors in the field. 
+If you share similar interests, have exciting project ideas, 
+or simply want to chat about the latest trends in computer science, 
+feel free to reach out! Let's learn, grow, and code together.
 
 ### 📫 Contact Information
 
@@ -65,4 +74,4 @@ I'm always eager to connect with fellow enthusiasts, professionals, and mentors 
 - 💬 LinkedIn:https://www.linkedin.com/in/liberty-daniel-mk
 - 🌐 GitHub: https://github.com/LIBERTY-D
 
-Thank you for stopping by, and I look forward to connecting with you in the vast world of computer science! 🚀
+Thank you for stopping by! 🚀
