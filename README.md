@@ -49,14 +49,6 @@ Currently looking for a role as a junior software engineer.
 - ![Android with Java](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Portfolio
-
-Explore my portfolio to see some of my projects and learn more about my work:
-
-🌐 [Portfolio Website](https://liberty-mukubvu.netlify.app/)
-
-
-
 ### 🌐 Future Aspirations
 
 Looking ahead, I aspire to become a skilled Senior Software Engineer.
