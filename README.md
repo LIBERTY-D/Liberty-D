@@ -6,11 +6,10 @@ I love the challenge of solving complex problems, optimizing code, and figuring 
 
 Beyond coding, I’m always looking to learn something new—whether it’s exploring **software architecture**, 
 diving into **system design**, or just experimenting with different technologies.
-I also enjoy contributing to open-source projects and collaborating with others who share the same enthusiasm for tech.
 
 ### 🎓 Academic Journey
 I currently graduated and excited about the opportunities ahead of me.
-Currently looking for a role as a junior software engineer.
+Currently looking for a role as a junior software engineer or junior qa engineer.
 
 ## Skills and Experience
 
@@ -20,14 +19,11 @@ Currently looking for a role as a junior software engineer.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ## Frontend Frameworks and Libraries
-
 - ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
 ## Backend Frameworks, ORM'S, Databases
-
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-%236B4F9A.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -43,6 +39,7 @@ Currently looking for a role as a junior software engineer.
 - ![TestNG](https://img.shields.io/badge/TestNG-%239922CC.svg?style=for-the-badge&logo=testng&logoColor=white)
 - ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 - ![Mockito](https://img.shields.io/badge/Mockito-%2300BFA5.svg?style=for-the-badge&logo=mockito&logoColor=white)
+- ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ## Mobile Developement and Other Tools and Technologies
 
