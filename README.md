@@ -39,6 +39,8 @@ Currently looking for a role as a **Junior Software Engineer** or **Junior QA En
 - ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 - ![Mockito](https://img.shields.io/badge/Mockito-%2300BFA5.svg?style=for-the-badge&logo=mockito&logoColor=white)
 - ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+- ![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)
+
 
 ## Mobile Developement and Other Tools and Technologies
 
