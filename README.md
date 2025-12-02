@@ -1,29 +1,20 @@
-<!--## About Me
-Hey there! 👋 I'm Liberty Mukubvu, a recent Computer Science graduate who just really loves to code.
+### About Me
+Hey there! 👋 I'm Liberty Mukubvu, currently working as a Quality Analyst.
+In my own time, I’m growing my skills in programming, particularly in Java, and exploring more areas in tech to broaden my abilities.
+I also hold a Bachelor’s degree in Computer Science, which gives me a solid foundation in technology and problem-solving.
 
-I mostly work with **Java**, building personal projects and tinkering with new ideas. 
-I love the challenge of solving complex problems, optimizing code, and figuring out how things work under the hood.
+# Skills and Experience
 
-Beyond coding, I’m always looking to learn something new—whether it’s exploring **software architecture**, 
-diving into **system design**, or just experimenting with different technologies.
---
-
-### 🎓 Academic Journey
-I currently graduated and excited about the opportunities ahead of me.
-Currently looking for a role as a **Junior Software Engineer** or **Junior QA Engineer**.
--->
-## Skills and Experience
-
-## Programming Languages
+### Programming Languages
 
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-## Frontend Frameworks and Libraries
+### Frontend Frameworks and Libraries
 - ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - ![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
-## Backend Frameworks, ORM'S, Databases
+### Backend Frameworks, ORM'S, Databases
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-%236B4F9A.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -32,7 +23,7 @@ Currently looking for a role as a **Junior Software Engineer** or **Junior QA En
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-## Software Testing
+### Software Testing
 
 - ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 - ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-%236CB745.svg?style=for-the-badge&logo=rest-assured&logoColor=white)
@@ -43,7 +34,7 @@ Currently looking for a role as a **Junior Software Engineer** or **Junior QA En
 - ![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)
 
 
-## Mobile Developement and Other Tools and Technologies
+##### Mobile Developement and Other Tools and Technologies
 
 - ![Android with Java](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
