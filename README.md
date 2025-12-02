@@ -1,4 +1,4 @@
-## About Me
+<!--## About Me
 Hey there! 👋 I'm Liberty Mukubvu, a recent Computer Science graduate who just really loves to code.
 
 I mostly work with **Java**, building personal projects and tinkering with new ideas. 
@@ -6,11 +6,12 @@ I love the challenge of solving complex problems, optimizing code, and figuring 
 
 Beyond coding, I’m always looking to learn something new—whether it’s exploring **software architecture**, 
 diving into **system design**, or just experimenting with different technologies.
+--
 
 ### 🎓 Academic Journey
 I currently graduated and excited about the opportunities ahead of me.
 Currently looking for a role as a **Junior Software Engineer** or **Junior QA Engineer**.
-
+-->
 ## Skills and Experience
 
 ## Programming Languages
